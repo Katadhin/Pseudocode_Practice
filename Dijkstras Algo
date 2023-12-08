@@ -1,0 +1,23 @@
+# Define a function to find the shortest path using Dijkstra's algorithm
+
+    # Initialize the distance dictionary with all nodes set to infinity
+
+    # Set the distance for the starting node to 0
+
+    # Create a set to keep track of visited nodes
+
+    # Loop to find the shortest path for all nodes
+
+        # Find the node with the minimum distance that has not been visited
+
+        # Mark the current node as visited
+
+        # Update the distance to neighboring nodes through the current node
+
+# Define a sample weighted graph as a dictionary of dictionaries
+
+# Define the starting node
+
+# Call the function to find the shortest distances from the start node
+
+# Print the result
